@@ -230,3 +230,4 @@ D:\Projects\Core\AMNEVH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.
 D:\Projects\Core\AMNEVH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Projects\Core\AMNEVH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Projects\Core\AMNEVH\obj\Debug\net8.0\AMNEVH.csproj.Up2Date
+D:\Projects\Core\AMNEVH\obj\Debug\net8.0\AMNEVH.sourcelink.json

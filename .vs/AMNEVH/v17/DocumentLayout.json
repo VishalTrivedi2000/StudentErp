@@ -3,6 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\Core\\AMNEVH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\erpSourcecode\\Student\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\erpSourcecode\\Student\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,14 +37,6 @@
       "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|d:\\projects\\core\\amnevh\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BD29036-3C61-4EF8-AE4A-AF6755643F54}|AMNEVH.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,17 +48,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
               "ToolTip": "D:\\Projects\\Core\\AMNEVH\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "Views\\Login\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "ViewState": "AQIAAIoCAAAAAAAAAAAgwLoCAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-03T07:53:33.681Z",
               "IsPinned": true,
@@ -60,7 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Projects\\erpSourcecode\\Student\\Default.aspx",
+              "RelativeDocumentMoniker": "..\\..\\erpSourcecode\\Student\\Default.aspx",
+              "ToolTip": "D:\\Projects\\erpSourcecode\\Student\\Default.aspx",
+              "RelativeToolTip": "..\\..\\erpSourcecode\\Student\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T21:36:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\erpSourcecode\\Student\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\erpSourcecode\\Student\\Default.aspx.cs",
+              "ToolTip": "D:\\Projects\\erpSourcecode\\Student\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\erpSourcecode\\Student\\Default.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:34:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_LayoutHome.cshtml",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Views\\Shared\\_LayoutHome.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutHome.cshtml",
@@ -68,12 +100,11 @@
               "RelativeToolTip": "Views\\Shared\\_LayoutHome.cshtml",
               "ViewState": "AQIAAHwAAAAAAAAAAAAAAKIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T15:34:30.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:34:30.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_MasterLayout.cshtml",
@@ -81,12 +112,11 @@
               "RelativeToolTip": "Views\\Shared\\_MasterLayout.cshtml",
               "ViewState": "AQIAAHwAAAAAAAAAAAAmwAEBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T14:24:50.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T14:24:50.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -99,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -107,25 +137,24 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T14:10:57.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T14:10:57.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\Core\\AMNEVH\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAtAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T13:35:36.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -133,12 +162,11 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T07:51:27.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T07:51:27.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Projects\\Core\\AMNEVH\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -146,8 +174,7 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T07:49:25.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T07:49:25.516Z"
             }
           ]
         }

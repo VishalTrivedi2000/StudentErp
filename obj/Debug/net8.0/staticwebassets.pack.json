@@ -29,6 +29,194 @@
       "PackagePath": "staticwebassets\\css\\all.min.css"
     },
     {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\css\\custom-style.css",
+      "PackagePath": "staticwebassets\\css\\assets\\css\\custom-style.css"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\css\\special-classes.css",
+      "PackagePath": "staticwebassets\\css\\assets\\css\\special-classes.css"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\banner-arrow-img.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\banner-arrow-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\banner-tablet.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\banner-tablet.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-customer-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-customer-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-customer-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-customer-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-customer-img-3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-customer-img-3.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-customer-img-4.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-customer-img-4.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-customer-img-5.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-customer-img-5.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-shape-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-shape-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-shape-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-shape-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\customer-base-section-shape-img-3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\customer-base-section-shape-img-3.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\dropdown.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\dropdown.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\home-banner-backgroud-img.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\home-banner-backgroud-img.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\home-banner-img.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\home-banner-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\icon-folder.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\icon-folder.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-graph-img.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-graph-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-listing-img-1.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-listing-img-1.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-listing-img-2.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-listing-img-2.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-main-img.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-main-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-shape-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-shape-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-shape-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-shape-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\interaction-section-shape-img-3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\interaction-section-shape-img-3.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\newsletter-shape-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\newsletter-shape-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\newsletter-shape-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\newsletter-shape-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\partner-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\partner-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\partner-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\partner-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\plus-icon.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\plus-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\review-section-background-img.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\review-section-background-img.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-3.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-4.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-4.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-5.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-5.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-plan-box-img-6.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-plan-box-img-6.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-shape-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-shape-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\services-section-shape-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\services-section-shape-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\solution-section-plan-box-img-1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\solution-section-plan-box-img-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\solution-section-plan-box-img-2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\solution-section-plan-box-img-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\sub-banner-background-img.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\sub-banner-background-img.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\images\\talent-section-img.html",
+      "PackagePath": "staticwebassets\\css\\assets\\images\\talent-section-img.html"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\js\\counter-script.js",
+      "PackagePath": "staticwebassets\\css\\assets\\js\\counter-script.js"
+    },
+    {
+      "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\css\\assets\\js\\wow.js"
+    },
+    {
       "Id": "D:\\Projects\\Core\\AMNEVH\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
